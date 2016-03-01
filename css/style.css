@@ -1,0 +1,11 @@
+body {font-family: sans-serif; color: #777777;}
+nav ul li {
+    list-style-type: none;
+    display: block;
+    width: 100px;
+    float: left;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
